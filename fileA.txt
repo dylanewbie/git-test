@@ -1,4 +1,4 @@
 this is FileA
 add nf1
 edit locally
-add new feat2 -mod1 -mod2
+add new feat2 -mod1 -mod2 -mod3
